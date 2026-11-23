@@ -24,6 +24,7 @@ At Companies House I work across a large, long-lived Oracle/Java platform (CHIPS
 
 ### Companies House, UK
 **Senior Software Developer** *(Oct 2024 – Present)* | **Software Developer** *(Sept 2023 – Sept 2024)*
+
 *Java, Spring Boot, Node.js, Oracle SQL, MongoDB, Kafka, Docker, AWS, Terraform*
 
 Companies House maintains the public register of UK companies and enforces filing and compliance obligations. My work spans the internal case-management system (CHIPS), its supporting REST and Kafka services, and public-facing web services.
@@ -36,6 +37,7 @@ Companies House maintains the public register of UK companies and enforces filin
 - Propagated ESO corporate annotations through the delta pipeline: `chs-delta-api`, `company-profile-delta-consumer`, private API SDK and specifications, `api-enumerations` and the public site. This was a coordinated change across seven repositories.
 
 **Identity Verification (IDV) compliance and enforcement**
+
 *Context: mandatory IDV launched on 18 November 2025 for all directors and PSCs, with a year-long transitional period.*
 - Delivered the compliance and enforcement workflows for the IDV project, which has resulted in over 500,000 companies being removed from the register through dissolution and over 1,300 financial penalties for late confirmation statements and IDV statements.
 - The same enforcement pathway has led to the prosecution of 195 companies and 204 directors, 131 convictions, and the first director disqualifications. It has also supported over 70,000 representations and around 1,300 referrals to the Insolvency Service.
@@ -89,4 +91,5 @@ Companies House maintains the public register of UK companies and enforces filin
 
 ## Education
 **Bachelor of Engineering in Computer Science**, Birla Institute of Technology & Science, Pilani *(Aug 2017 – July 2021)*
+
 **Minor in Finance**, Birla Institute of Technology & Science, Pilani
