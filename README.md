@@ -7,6 +7,7 @@ Backend engineer with 5+ years' experience across UK government regulation (Comp
 At Companies House I work across a large, long-lived Oracle/Java platform (CHIPS) and the newer cloud microservice estate. I deliver legislative and regulatory change end to end: discovery spikes, design, multi-repository implementation, database patches, test automation, pipelines and environment configuration. At HDFC Life I progressed from graduate trainee to senior engineer in two years, leading the backend of a customer-facing payout journey and building shared platform services. I have mentored engineers, presented to non-technical stakeholders, and I am looking to step into a technical lead role.
 
 ## Technical Skills
+
 | Area | Details |
 |---|---|
 | Languages | Java 8–21, JavaScript, TypeScript, SQL and PL/SQL, Python, Groovy, HTML/CSS |
